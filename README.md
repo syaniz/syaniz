@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning about flutter for mobile development
 - 💞️ I’m looking to collaborate on making mobile apps
-- 📫 i'm very welcome to see you on ww.linkedin.com/in/syanizaf
+- 📫 i'm very welcome to see you on www.linkedin.com/in/syanizaf
 
 <!---
 syaniz/syaniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
